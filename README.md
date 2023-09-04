@@ -9,13 +9,13 @@ Part of my work with the conservation officer involved using EarthRanger, a prot
 
 Below are examples of automated maps I made summarizing monthly sightings of key herbivore and carnivore species, as well as carcasses.
 
-![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/84d73821-2954-477d-a329-a5e97807c300)
+![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/04d93114-059d-4b44-b42f-fc88c5577aac)
 
 
-![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/0db1ba5b-2e88-4898-ac5c-7bffd185e10d)
+![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/a5498ab9-08b2-46a6-9f7d-391fb7139545)
 
 
-![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/4d8f4952-9b87-48a8-a5b5-e4153a0ff59f)
+![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/ece54cc0-35f3-4ebc-9a13-d6ef1e8ee60d)
 
 
 ![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/2d40eeb7-4081-4700-a95d-d8ee8c62625c)
