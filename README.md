@@ -1,6 +1,8 @@
 # earthranger_tableau_integration_maps
 
-I completed this project for Loisaba Conservancy in Laikipia, Kenya, during an internship I completed there in the fall of 2022. While there, I worked both as an assistant to the conservation officer and as an apprentice safari guide. Part of my work with the conservation officer involved using EarthRanger, a protected area management tool, and leveraging its integration with Tableau, to automate the monthly creation of maps and figures relating to wildlife sightings by security patrols. I also developed a system to track tourist game drives in EarthRanger and map them in Tableau. This increased the pool of wildlife sighting data feeding Loisaba management's decisions, and also enabled Loisaba to begin giving tourists a digital keepsake, showing them where they went on game drives, and what they saw during their visit.
+I completed this project for Loisaba Conservancy in Laikipia, Kenya, during an internship I completed there in the fall of 2022. While there, I worked both as an assistant to the conservation officer and as an apprentice safari guide.
+
+Part of my work with the conservation officer involved using EarthRanger, a protected area management tool, and leveraging its integration with Tableau, to automate the monthly creation of maps and figures relating to wildlife sightings by security patrols. I also developed a system to track tourist game drives in EarthRanger and map them in Tableau. This increased the pool of wildlife sighting data feeding Loisaba management's decisions, and also enabled Loisaba to begin giving tourists a digital keepsake, showing them where they went on game drives, and what they saw during their visit.
 
 
 ### Security Patrol Sighting Maps and Figures
