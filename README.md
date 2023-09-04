@@ -29,9 +29,3 @@ Below is an example of an interactive map I made showing all of a tourist group'
 
 
 ![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/b41ce366-02fe-452c-9f97-ce785170aad4)
-
-
-
-The maps and figures below are part of monthly automated tableau reports of wildlife sightings around the conservancy.
-I also created a semi-automated process for tracking and visualizing touristic game drive paths and sightings. The maps were posted to a private link online for tourist groups to access.
-This new data helped with the management of game drive paths, and also supplemented wildlife sighting data informing conservancy management decisions.
