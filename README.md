@@ -30,3 +30,6 @@ Below is an example of an interactive map I made showing all of a tourist group'
 
 
 ![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/b41ce366-02fe-452c-9f97-ce785170aad4)
+
+
+My work with Loisaba taught me an enormous amount about real-world conservation data and the difficulties associated with GPS tracking, sighting data, and map-making. I also developed data engineering and tableau skills while building data pipelines for automated map-making. The experience has motivated me to seek out related opportunities at the intersection of data science/engineering, and conservation. I am tremendously grateful to the team for inviting me to complete an internship with them.
