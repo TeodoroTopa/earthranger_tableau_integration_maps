@@ -23,7 +23,7 @@ Below are examples of automated maps I made summarizing monthly sightings of key
 
 ### Tourist Game Drive Mapping
 
-Below is an example of an interactive map I made showing all of a tourist group's game drives during their visit to Loisaba. After building the system of tracking and mapping the game drives, I trained a group of guides and the security team on how to track drives and create the maps.
+Below is an example of an interactive map I made showing all of a tourist group's game drives during their visit to Loisaba (this map uses dummy data). After building the system of tracking and mapping the game drives, I trained a group of guides and the security team on how to track drives and create the maps.
 
 ![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/24455644-797a-49f9-9843-13cebf30e190)
 
