@@ -18,7 +18,8 @@ Below are examples of automated maps I made summarizing monthly sightings of key
 ![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/ece54cc0-35f3-4ebc-9a13-d6ef1e8ee60d)
 
 
-![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/2d40eeb7-4081-4700-a95d-d8ee8c62625c)
+![image](https://github.com/TeodoroTopa/earthranger_tableau_integration_maps/assets/27015256/8a5e2a4d-4074-4cb5-a1b5-b9bf3aecf078)
+
 
 
 ### Tourist Game Drive Mapping
