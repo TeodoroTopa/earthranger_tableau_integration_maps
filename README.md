@@ -1,4 +1,4 @@
-# earthranger_tableau_integration_maps
+# er_tableau_integration_maps
 
 This repo does not have any code and serves as a summary of an EarthRanger and Tableau-based project. I completed the project for Loisaba Conservancy in Laikipia, Kenya, during an internship I had there in the fall of 2022. While at Loisaba, I worked both as an assistant to the conservation officer and as an apprentice safari guide.
 
